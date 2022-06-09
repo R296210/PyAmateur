@@ -5,4 +5,4 @@ for i in range(1, alt+1, 2):
         print(j, end=" ")
     print ("")
 
-print ("Cambio ")
+
